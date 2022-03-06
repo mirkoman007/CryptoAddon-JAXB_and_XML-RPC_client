@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:65026/CryptoService.asmx?WSDL" uri="xml-resources/web-service-references/CryptoService/wsdl/localhost_65026/CryptoService.asmx.wsdl"/>
+    <system systemId="file:/C:/Users/mirko/Documents/NetBeansProjects/CryptoJavaFX/coin.xsd" uri="xml-resources/jaxb/ArrayOfCoin/coin.xsd"/>
+</catalog>
